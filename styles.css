@@ -1,0 +1,162 @@
+/* 
+<!-- 
+<div class="row g-3">
+	<div class="form-group col-md-6">
+		
+		<table class="table">
+			
+			<tbody>
+			  <tr>
+				
+				<div class="row">
+					<td colspan="2" class="col-md-6">Permanent Address</td>
+					<td class="col-md-6">:XXXXXXXXXXXXXXXXX</td>
+				</div>
+			  </tr>
+			</tbody>
+		  </table>
+	</div>
+	<div class="form-group col-md-6">
+		
+		<table class="table">
+			
+			<tbody>
+			  <tr>
+				<div class="row">
+				<td colspan="2" class="col-md-6">Communication Address</td>
+				<td class="col-md-6">:XXXXXXXXXXXXXXXXX</td>
+			</div>
+			  </tr>
+			</tbody>
+		  </table>
+	</div>
+</div>
+
+<div class="row g-3">
+	<div class="form-group col-md-6">
+		
+		<table class="table">
+			
+			<tbody>
+			  <tr>
+				
+				<div class="row">
+					<td colspan="2" class="col-md-6">Country</td>
+					<td class="col-md-6">:XXXXXXXXXXXXXXXXX</td>
+				</div>
+			  </tr>
+			</tbody>
+		  </table>
+	</div>
+	<div class="form-group col-md-6">
+		
+		<table class="table">
+			
+			<tbody>
+			  <tr>
+				
+				<div class="row">
+					<td colspan="2" class="col-md-6">State</td>
+					<td class="col-md-6">:XXXXXXXXXXXXXXXXX</td>
+				</div>
+			  </tr>
+			</tbody>
+		  </table>
+	</div>
+</div>
+
+<div class="row g-3">
+	<div class="form-group col-md-6">
+		
+		<table class="table">
+			
+			<tbody>
+			  <tr>
+				
+				<div class="row">
+					<td colspan="2" class="col-md-6">City</td>
+					<td class="col-md-6">:XXXXXXXXXXXXXXXXX</td>
+				</div>
+			  </tr>
+			</tbody>
+		  </table>
+	</div>
+	<div class="form-group col-md-6">
+		
+		<table class="table">
+			
+			<tbody>
+			  <tr>
+				
+				<div class="row">
+					<td colspan="2" class="col-md-6">PIN Code</td>
+					<td class="col-md-6">:XXXXXXXXXXXXXXXXX</td>
+				</div>
+			  </tr>
+			</tbody>
+		  </table>
+	</div>
+</div>
+
+<div class="row g-3">
+	<div class="form-group col-md-6">
+		
+		<table class="table">
+			
+			<tbody>
+			  <tr>
+				
+				<div class="row">
+					<td colspan="2" class="col-md-6">Upload Document Type</td>
+					<td class="col-md-6">:XXXXXXXXXXXXXXXXX</td>
+				</div>
+			  </tr>
+			</tbody>
+		  </table>
+	</div>
+	<div class="form-group col-md-6">
+		
+		<table class="table">
+			
+			<tbody>
+			  <tr>
+				
+				<div class="row">
+					<td colspan="2" class="col-md-6">Upload Document </td>
+					<td class="col-md-6">:XXXXXXXXXXXXXXXXX</td>
+				</div>
+			  </tr>
+			</tbody>
+		  </table>
+	</div>
+</div> -->
+
+
+<div class="row g-3">
+	<div class="form-group col-md-6">
+		
+		<table class="table">
+			
+			<tbody>
+			  <tr>
+				
+				<td colspan="2" class=""><button class="btn btn-primary">address</button></td>
+				
+			  </tr>
+			</tbody>
+		  </table>
+	</div>
+	<div class="form-group col-md-6">
+		
+		<table class="table">
+			
+			<tbody>
+			  <tr>
+				
+				<td colspan="8" class=""><button class="btn btn-primary">address</button></td>
+
+			  </tr>
+			</tbody>
+		  </table>
+	</div>
+</div> */
